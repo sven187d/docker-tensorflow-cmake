@@ -1,2 +1,2 @@
-# docker-tensorflow-cmake
-Docker with tensorflow and cmake
+# docker-tensorflow-opencv-cmake
+Docker with tensorflow, opencv and cmake
